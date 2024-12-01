@@ -1,0 +1,1 @@
+print('Hello Wrold!\nami shakib\ttumi ke\bami vut')
